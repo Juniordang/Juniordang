@@ -1,7 +1,7 @@
 ### Ola sou o Junior Videnson 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-dange-ba1356257/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juniorvidensondev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dange_junior/?next=%2F)
 
 ![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=Juniordang&show_icons=true&theme=dracula&count_private=true)
 ## Tecnologias que eu uso no meu dia
