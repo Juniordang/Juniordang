@@ -1,4 +1,5 @@
 ### Ola sou o Junior Videnson 👋
+##Faço Análise e Desenvolvimento de Sistemas e sou apaixonado por teconologia. Vou estar compartilhando meus projetos por aqui, pra vocês darem o feedback.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-dange-ba1356257/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dange_junior/?next=%2F)
