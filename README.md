@@ -18,7 +18,7 @@ Desenvolvedor focado em **Back-End com Go (Golang)**, orientado pela criação d
 ### 🚀 Experiência Profissional
 
 **Lazarus Software | Desenvolvedor FullStack**
-*Junho 2025 – Abril 2026*
+*Julho 2025 – Maio 2026*
 * Desenvolvimento de aplicações escaláveis em ambiente colaborativo.
 * Interação direta com equipas de UX e QA para garantir a qualidade das entregas.
 
