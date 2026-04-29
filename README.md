@@ -58,9 +58,3 @@ Utilizo técnicas de **Active Recall** e **Spaced Repetition** (Anki) para a con
 * [LinkedIn](https://www.linkedin.com/in/j%C3%BAnior-dange-819619317/)
 * [Email](juniordange4@gmail.com)
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Top Langs" />
-</div>
