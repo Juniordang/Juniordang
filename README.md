@@ -26,13 +26,13 @@ Desenvolvedor focado em **Back-End com Go (Golang)**, orientado pela criação d
 
 ### 📂 Projetos em Destaque
 
-#### [Study Focus](https://github.com/seu-usuario/study-focus) (Projeto de TCC)
+#### [Study Focus](https://github.com/Juniordang/study-focus-api) (Projeto de TCC)
 Aplicação de produtividade para estudantes que integra gestão de tempo e aprendizagem acelerada.
 * **Back-End:** Desenvolvido em **Go**, focado em alta performance.
 * **Funcionalidades:** Timer Pomodoro e integração com IA para geração de flashcards.
 * **Arquitetura:** Implementação de ecrã de configuração para chaves de API de IA e sistema de cache para validação de dados antes da persistência.
 
-#### [Encurtar Flask](https://github.com/seu-usuario/scheduling-system)
+#### [Encurtar Flask](https://github.com/Juniordang/projeto-flask-encurtador-url)
 Encurtador de URLs desenvolvido como projeto académico.
 * **Stack:** Python com **Flask**.
 * **Destaque:** Implementação de lógica de redirecionamento HTTP e persistência de dados, demonstrando versatilidade em diferentes ecossistemas back-end.
